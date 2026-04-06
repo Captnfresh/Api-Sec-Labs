@@ -1,7 +1,7 @@
 # Kali Linux API Hacking Lab Setup Guide
 > A detailed walkthrough of setting up a professional API security testing environment on Kali Linux using VirtualBox.
 
-**Author:** Adebowale Adesanya 
+**Author:** Adebowale 
 **Context:** Hacking APIs — Lab Setup  
 **OS:** Kali Linux 2024.4 (VirtualBox)  
 **Date:** April 2026
