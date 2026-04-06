@@ -1,8 +1,8 @@
 # Kali Linux API Hacking Lab Setup Guide
 > A detailed walkthrough of setting up a professional API security testing environment on Kali Linux using VirtualBox.
 
-**Author:** Adebowale  
-**Context:** HAWD (Hacking APIs With Determination) Bootcamp — Lab Setup  
+**Author:** Adebowale Adesanya 
+**Context:** Hacking APIs — Lab Setup  
 **OS:** Kali Linux 2024.4 (VirtualBox)  
 **Date:** April 2026
 
@@ -407,7 +407,7 @@ sudo wget -c https://github.com/hAPI-hacker/Hacking-APIs/archive/refs/heads/main
 && sudo rm -f HackingAPIs.zip
 ```
 
-> **SecLists** is a community maintained collection of wordlists covering usernames, passwords, URLs, API paths, fuzzing payloads and more. **Hacking-APIs** is a collection built specifically for API security testing by the HAWD bootcamp team.
+> **SecLists** is a community maintained collection of wordlists covering usernames, passwords, URLs, API paths, fuzzing payloads and more. **Hacking-APIs** is a collection built specifically for API security testing.
 
 ---
 
@@ -478,4 +478,4 @@ Make sure you:
 
 ---
 
-*This documentation is part of my HAWD API Security Bootcamp learning journey. For the full write-up and weekly updates visit my [Medium profile](#).*
+*For the full write-up and weekly updates visit my [Medium profile](https://medium.com/@adebowale.devsecops).*
